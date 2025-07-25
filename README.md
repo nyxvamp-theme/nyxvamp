@@ -1,6 +1,6 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/nyxvamp-theme/nyxvamp/main/assets/logos/logo-wordmark.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/nyxvamp-theme/nyxvamp/main/assets/logos/logo.png" width="400" alt="Nyxvamp"/>
+	<img src="https://raw.githubusercontent.com/nyxvamp-theme/.github/main/logo-wordmark.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/nyxvamp-theme/.github/main/logo.png" width="400" alt="Nyxvamp"/>
 	<br/><br/>
 	<i>🌙 minimalist gothic themes with transfem symbolism</i>
 	<br/><br/>
@@ -20,18 +20,39 @@
 
 ## Showcases
 
-<table>
-<tr>
-<td align="center"><strong>🌙 veil</strong><br/><em>versatile dark theme</em></td>
-<td align="center"><strong>🦇 obsidian</strong><br/><em>focused nighttime sessions</em></td>
-<td align="center"><strong>radiance</strong><br/><em>optimized light theme</em></td>
-</tr>
-<tr>
-<td><img src="./assets/screenshots/veil-showcase.png" alt="veil variant" width="300"/></td>
-<td><img src="./assets/screenshots/obsidian-showcase.png" alt="obsidian variant" width="300"/></td>
-<td><img src="./assets/screenshots/radiance-showcase.png" alt="radiance variant" width="300"/></td>
-</tr>
-</table>
+### 🌙 Veil
+<p align="center"><em>versatile dark theme with bright accents</em></p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nyxvamp-theme/helix/main/assets/nyxvamp-veil.png" alt="Veil showcase" width="800"/>
+</p>
+
+**Perfect for:** General coding, daily use, vibrant syntax highlighting  
+**Background:** `#1E1E2E` • **Foreground:** `#D9E0EE`
+
+---
+
+### 🦇 Obsidian  
+<p align="center"><em>very dark theme for focused nighttime sessions</em></p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nyxvamp-theme/helix/main/assets/nyxvamp-obsidian.png" alt="Obsidian showcase" width="800"/>
+</p>
+
+**Perfect for:** Night coding, reduced eye strain, deep focus  
+**Background:** `#000A0F` • **Foreground:** `#C0C0CE`
+
+---
+
+### ✨ Radiance
+<p align="center"><em>optimized light theme with excellent contrast</em></p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nyxvamp-theme/helix/main/assets/nyxvamp-radiance.png" alt="Radiance showcase" width="800"/>
+</p>
+
+**Perfect for:** Daytime coding, presentations, high contrast needs  
+**Background:** `#F7F7FF` • **Foreground:** `#1E1E2E`
 
 &nbsp;
 
