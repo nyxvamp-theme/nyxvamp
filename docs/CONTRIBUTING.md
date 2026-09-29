@@ -30,9 +30,16 @@ All implementations should use the colors from our base palette:
 **Radiance (Light)**
 - Background: `#F7F7FF`
 - Foreground: `#1E1E2E`
-- Keywords: `#9655FF`
-- Strings: `#B8860B`
+- Keywords: `#7743CC`
+- Strings: `#825B00`
 - Functions: `#005F87`
+
+**Jhujuba (Mid-Dark)**
+- Background: `#392735`
+- Foreground: `#EDD7E4`
+- Keywords: `#EEA2D4`
+- Strings: `#A1E0AD`
+- Functions: `#91C3F6`
 
 ## Reporting Issues
 

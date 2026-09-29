@@ -15,5 +15,5 @@ Nyxvamp themes are available for the following editors and terminals:
 
 Each repository contains:
 - Installation instructions
-- Theme files for all variants (veil, obsidian, radiance)
+- Theme files for all variants (veil, obsidian, radiance, jhujuba)
 - Screenshots and examples
